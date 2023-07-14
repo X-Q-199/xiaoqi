@@ -6,5 +6,5 @@ git remote add xiaoqi https://github.com/X-Q-199/xiaoqi.git  //添加远程仓�
 //git merge --allow-unrelated-histories xiaoqi/main  //合并啥玩意
 git add .  //暂存
 git commit -m "add xq.txt"  //推送至本地仓库
-git push xiaoi push  //推送至远程仓库
+git push xiaoqi main  //推送至远程仓库
 //git clone <远程仓库地址>  //此操作可节约时间成本
